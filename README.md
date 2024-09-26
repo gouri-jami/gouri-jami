@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gouri-jami
-- 👀 I’m interested in ...web development,spftware 
+- 👀 I’m interested in ...web development,software 
 - 🌱 I’m currently learning ...html,css
 - 💞️ I’m looking to collaborate on ...Make a repository on Github profile 
 - 📫 How to reach me ...
